@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wszmk.github.io/blog/</id>
+    <id>https://cn.hd.lc</id>
     <title>zmk&apos;s blog</title>
-    <updated>2023-03-17T05:42:10.146Z</updated>
+    <updated>2023-03-18T01:43:54.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wszmk.github.io/blog/"/>
-    <link rel="self" href="https://wszmk.github.io/blog/atom.xml"/>
+    <link rel="alternate" href="https://cn.hd.lc"/>
+    <link rel="self" href="https://cn.hd.lc/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://wszmk.github.io/blog/images/avatar.png</logo>
-    <icon>https://wszmk.github.io/blog/favicon.ico</icon>
+    <logo>https://cn.hd.lc/images/avatar.png</logo>
+    <icon>https://cn.hd.lc/favicon.ico</icon>
     <rights>All rights reserved 2023, zmk&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wszmk.github.io/blog/post/hello-gridea/</id>
-        <link href="https://wszmk.github.io/blog/post/hello-gridea/">
+        <id>https://cn.hd.lc/post/hello-gridea/</id>
+        <link href="https://cn.hd.lc/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
